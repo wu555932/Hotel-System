@@ -74,6 +74,18 @@ app.post("/api/EditHotel",(req,res)=>{
     });
   });
 })
+app.post("/api/hotelSearch",(req,res)=>{
+  const reqireParams = Object.keys(req.body);
+  const params = JSON.parse(reqireParams);
+  const keyWord = params.keyword;
+  const searchData = totalHotelData.hotelData.filter(item => item.name.includes(keyWord))
+  console.log("keyWord",keyWord);
+  console.log("searchData",searchData);
+  res.send({
+    searchData,
+    success: "ok",
+  });
+})
 const PORT = "3000";
 app.listen(PORT, () => {
   const serveInfo = `Serve run  in http://127.0.0.1: ${PORT}`;

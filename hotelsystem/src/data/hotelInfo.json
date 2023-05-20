@@ -1,16 +1,1 @@
-{
-  "hotelData": [
-    {
-      "name": "测试1",
-      "type": "大床房",
-      "city": "成都",
-      "value": "1200",
-      "booker": "阿星",
-      "mobile": "15907498738",
-      "platform": "携程",
-      "endTime": "2023-10-1  12:00:00",
-      "address": "居里夫人大道",
-      "id": "f94160f8-db83-4fde-8c67-a24498f13a57"
-    }
-  ]
-}
+{"hotelData":[{"name":"测试1","type":"大床房","city":"成都","value":"1200","booker":"阿星","mobile":"15907498738","platform":"携程","endTime":"2023-10-1  12:00:00","address":"居里夫人大道","id":"f94160f8-db83-4fde-8c67-a24498f13a57"},{"name":"1","type":"1","city":"1","value":"1","booker":"1","mobile":"1","platform":"1","endTime":"1","address":"1","id":"bdbd18ab-a514-49b2-93a9-0265235ddfc1"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"5183ce4f-30fb-4501-b9bb-194d4754cecf"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"292e9725-b0b2-417a-9a25-f9a4d1093e81"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"66ffcdf5-9b21-4dd8-9691-e597a4265298"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"48192d6c-b923-4097-951b-6dfc7d135cfc"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"14298719-94ff-4047-ad3e-8f26d806edbb"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"0383ea43-7e69-406a-b659-bd3cc4c9bfd5"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"d8d057d2-1bbd-411a-90ee-50878bfc8641"},{"name":"2","type":"2","city":"2","value":"2","booker":"2","mobile":"2","platform":"2","endTime":"2","address":"2","id":"491e384c-3005-4bec-8dc2-a2b585f443c4"}]}
